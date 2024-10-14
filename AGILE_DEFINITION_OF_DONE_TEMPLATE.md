@@ -1,3 +1,3 @@
-# Agile Definition of Ready (DOR)
+# Agile Definition of Done (DOD)
 
 MORE
